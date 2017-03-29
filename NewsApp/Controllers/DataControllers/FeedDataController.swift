@@ -14,7 +14,7 @@ open class FeedDataController {
     
     var realm: Realm = try! Realm()
 
-    open func processxml(feedid: Int, xml: XMLIndexer) {
+    public func processxml(feedid: Int, xml: XMLIndexer) {
         self.deleteForFeed(feedid: feedid)
         do {
             try realm.safeWrite {
@@ -34,12 +34,12 @@ open class FeedDataController {
         }
     }
     
-    open func readAll() -> [Feed] {
+    public func readAll() -> [Feed] {
         let results = self.realm.objects(Feed.self)
         return(Array(results))
     }
 
-    open func readForFeed(feedid: Int) -> [Feed] {
+    public func readForFeed(feedid: Int) -> [Feed] {
         let predicate = NSPredicate(format: "feedid = %d", feedid)
         let results = realm.objects(Feed.self).filter(predicate)
         
@@ -53,7 +53,7 @@ open class FeedDataController {
         return(myArraySorted)
     }
 
-    open func deleteForFeed(feedid: Int) {
+    public func deleteForFeed(feedid: Int) {
         do {
             try realm.write {
                 realm.delete(self.readForFeed(feedid: feedid))
@@ -63,7 +63,7 @@ open class FeedDataController {
         }
     }
 
-    open func deleteAll() {
+    public func deleteAll() {
         do {
             try realm.write {
                 realm.delete(self.readAll())

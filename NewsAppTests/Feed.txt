@@ -1,0 +1,546 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title>BBC News - UK</title>
+        <description>BBC News - UK</description>
+        <link>http://www.bbc.co.uk/news/</link>
+        <image>
+            <url>http://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - UK</title>
+            <link>http://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Wed, 29 Mar 2017 16:17:36 GMT</lastBuildDate>
+        <copyright>Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.</copyright>
+        <language>en-gb</language>
+        <ttl>15</ttl>
+        <item>
+            <title>'No turning back' on Brexit as Article 50 triggered</title>
+            <description>Theresa May formally triggers the process of leaving the EU as negotiating battle lines are drawn.</description>
+            <link>http://www.bbc.co.uk/news/uk-politics-39431428</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-39431428</guid>
+            <pubDate>Wed, 29 Mar 2017 16:16:10 GMT</pubDate>
+            <media:thumbnail height="549" url="http://c.files.bbci.co.uk/15547/production/_95376378_mediaitem95376374.jpg" width="976"></media:thumbnail>
+        </item>
+        <item>
+            <title>Bridge tribute to Westminster attack victims</title>
+            <description>Thousands gather at the scene of the attack, exactly one week after it happened.</description>
+            <link>http://www.bbc.co.uk/news/uk-39435074</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-39435074</guid>
+            <pubDate>Wed, 29 Mar 2017 15:41:43 GMT</pubDate>
+            <media:thumbnail height="1152" url="http://c.files.bbci.co.uk/B605/production/_95379564_girls_bridge_reuters.jpg" width="2048"></media:thumbnail>
+        </item>
+        <item>
+            <title>George Michael: Private funeral for singer held</title>
+            <description>A private ceremony for the singer takes place, three months after his death.</description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-39434127</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-39434127</guid>
+            <pubDate>Wed, 29 Mar 2017 16:03:31 GMT</pubDate>
+            <media:thumbnail height="549" url="http://c.files.bbci.co.uk/6919/production/_94950962_georgepa.jpg" width="976"></media:thumbnail>
+        </item>
+        <item>
+            <title>Mark Duggan's family lose inquest appeal</title>
+            <description>There were riots across England after Mark Duggan was shot dead by police in London in 2011.</description>
+            <link>http://www.bbc.co.uk/news/uk-england-london-39428862</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-london-39428862</guid>
+            <pubDate>Wed, 29 Mar 2017 10:32:18 GMT</pubDate>
+            <media:thumbnail height="549" url="http://c.files.bbci.co.uk/13AD/production/_95373050_mediaitem95371287.jpg" width="976"></media:thumbnail>
+        </item>
+        <item>
+            <title>Royal Marine Alexander Blackman always regretted actions, wife says</title>
+            <description>Claire Blackman says if her husband could change 2011's events, "he would do in a heartbeat".</description>
+            <link>http://www.bbc.co.uk/news/uk-39428354</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-39428354</guid>
+            <pubDate>Wed, 29 Mar 2017 09:26:58 GMT</pubDate>
+            <media:thumbnail height="1152" url="http://c.files.bbci.co.uk/2FB9/production/_95371221_claire_blackman_getty.jpg" width="2048"></media:thumbnail>
+        </item>
+        <item>
+            <title>Merthyr RFC doctor calls for research into 3G pitches</title>
+            <description>It is after seven players suffered burns while playing at Sardis Road, Pontypridd.</description>
+            <link>http://www.bbc.co.uk/news/uk-wales-south-east-wales-39431522</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-wales-south-east-wales-39431522</guid>
+            <pubDate>Wed, 29 Mar 2017 14:38:44 GMT</pubDate>
+            <media:thumbnail height="549" url="http://c.files.bbci.co.uk/0362/production/_95366800_burns.jpg" width="976"></media:thumbnail>
+        </item>
+        <item>
+            <title>Bitcoin entrepreneur Amir Taaki quizzed over fighting in Syria</title>
+            <description>Developer quizzed by UK police after fighting so-called Islamic State alongside Kurds.</description>
+            <link>http://www.bbc.co.uk/news/uk-39417937</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-39417937</guid>
+            <pubDate>Wed, 29 Mar 2017 15:25:35 GMT</pubDate>
+            <media:thumbnail height="1152" url="http://c.files.bbci.co.uk/8BA1/production/_95354753_amir_taaki_outside.jpg" width="2048"></media:thumbnail>
+        </item>
+        <item>
+            <title>Man attacked by own Staffordshire bull terrier dog dies</title>
+            <description>The Staffordshire bull terrier owner died of hypovolemic shock and damage to his airway.</description>
+            <link>http://www.bbc.co.uk/news/uk-england-39428323</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-39428323</guid>
+            <pubDate>Wed, 29 Mar 2017 12:29:54 GMT</pubDate>
+            <media:thumbnail height="549" url="http://c.files.bbci.co.uk/4729/production/_95371281_mediaitem95371279.jpg" width="976"></media:thumbnail>
+        </item>
+        <item>
+            <title>Flybe fined for sending 3.3 million unwanted emails</title>
+            <description>The airline is fined £70,000 after sending more than 3.3 million marketing emails to people who did not want to receive them.</description>
+            <link>http://www.bbc.co.uk/news/technology-39430349</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-39430349</guid>
+            <pubDate>Wed, 29 Mar 2017 11:04:38 GMT</pubDate>
+            <media:thumbnail height="549" url="http://c.files.bbci.co.uk/0A43/production/_95372620_gettyimages-625531644.jpg" width="976"></media:thumbnail>
+        </item>
+        <item>
+            <title>Blue cheese 'was source' of E. coli outbreak</title>
+            <description>A report into an outbreak of E. coli O157 in which a three-year-old child died has concluded Dunsyre Blue cheese was the source.</description>
+            <link>http://www.bbc.co.uk/news/uk-scotland-39429124</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-scotland-39429124</guid>
+            <pubDate>Wed, 29 Mar 2017 13:58:34 GMT</pubDate>
+            <media:thumbnail height="549" url="http://c.files.bbci.co.uk/A48E/production/_90562124_mediaitem90562120.jpg" width="976"></media:thumbnail>
+        </item>
+        <item>
+            <title>Opening of Queensferry Crossing delayed until summer</title>
+            <description>The new Queensferry Crossing will not open until between mid-July and the end of August, officials confirm.</description>
+            <link>http://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-39431512</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-39431512</guid>
+            <pubDate>Wed, 29 Mar 2017 11:31:03 GMT</pubDate>
+            <media:thumbnail height="549" url="http://c.files.bbci.co.uk/A163/production/_92451314_mediaitem92451313.jpg" width="976"></media:thumbnail>
+        </item>
+        <item>
+            <title>Didcot is 'most normal town in England', researchers claim</title>
+            <description>The unassuming location best represents an "average English existence", according to statisticians.</description>
+            <link>http://www.bbc.co.uk/news/uk-england-oxfordshire-39428314</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-oxfordshire-39428314</guid>
+            <pubDate>Wed, 29 Mar 2017 14:28:04 GMT</pubDate>
+            <media:thumbnail height="549" url="http://c.files.bbci.co.uk/14078/production/_91004028_img_20160830_214831.jpg" width="976"></media:thumbnail>
+        </item>
+        <item>
+            <title>London attack: Tribute paid to Westminster bridge victims</title>
+            <description>Police officers have led a tribute to the victims of the Westminister attack.</description>
+            <link>http://www.bbc.co.uk/news/uk-39436577</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-39436577</guid>
+            <pubDate>Wed, 29 Mar 2017 15:00:18 GMT</pubDate>
+            <media:thumbnail height="576" url="http://c.files.bbci.co.uk/12C8/production/_95380840_p04ydz9b.jpg" width="1024"></media:thumbnail>
+        </item>
+        <item>
+            <title>Marine Le Pen on why the EU wants Brexit to be painful</title>
+            <description>Though the French presidential candidate still thinks Great Britain will negotiate a good deal.</description>
+            <link>http://www.bbc.co.uk/news/world-europe-39426221</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-europe-39426221</guid>
+            <pubDate>Wed, 29 Mar 2017 00:18:40 GMT</pubDate>
+            <media:thumbnail height="549" url="http://c.files.bbci.co.uk/11810/production/_95369617_p04yc2l4.jpg" width="976"></media:thumbnail>
+        </item>
+        <item>
+            <title>Pets sleeping on your bed growing trend</title>
+            <description>According to a new survey, nearly half of British dog and cat owners let their animals sleep on their bed.</description>
+            <link>http://www.bbc.co.uk/news/world-39428839</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-39428839</guid>
+            <pubDate>Wed, 29 Mar 2017 07:19:38 GMT</pubDate>
+            <media:thumbnail height="576" url="http://c.files.bbci.co.uk/174B9/production/_95371459_p04ychqw.jpg" width="1024"></media:thumbnail>
+        </item>
+        <item>
+            <title>Woman pledges to bake 40 cakes in 40 days for 40 people</title>
+            <description>Anna has used 50 eggs, four-and-a-half kilos of sugar and over two-and-a-half kilos of chocolate.</description>
+            <link>http://www.bbc.co.uk/news/uk-england-coventry-warwickshire-39431665</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-coventry-warwickshire-39431665</guid>
+            <pubDate>Wed, 29 Mar 2017 11:52:59 GMT</pubDate>
+            <media:thumbnail height="549" url="http://c.files.bbci.co.uk/1484F/production/_95374048_p04yd7n2.jpg" width="976"></media:thumbnail>
+        </item>
+        <item>
+            <title>Mother gave cannabis to son who fought rare form of cancer</title>
+            <description>Callie Blackwell said she was terrified of her teenage son "dying in pain".</description>
+            <link>http://www.bbc.co.uk/news/uk-england-norfolk-39422682</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-norfolk-39422682</guid>
+            <pubDate>Tue, 28 Mar 2017 15:20:29 GMT</pubDate>
+            <media:thumbnail height="576" url="http://c.files.bbci.co.uk/16AA4/production/_95363829_p04y9nyk.jpg" width="1024"></media:thumbnail>
+        </item>
+        <item>
+            <title>Holyrood backs Sturgeon's call for Indyref2</title>
+            <description>MSPs voted by 69 to 59 in favour of seeking permission for a referendum before the UK leaves the EU.</description>
+            <link>http://www.bbc.co.uk/news/uk-politics-39423257</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-39423257</guid>
+            <pubDate>Tue, 28 Mar 2017 18:38:30 GMT</pubDate>
+            <media:thumbnail height="574" url="http://c.files.bbci.co.uk/2612/production/_95364790_p04yb785.jpg" width="1024"></media:thumbnail>
+        </item>
+        <item>
+            <title>Robot making schoolgirls set for world championships</title>
+            <description>Schoolgirls who designed and built a robot will represent the UK in the Robotics World Championship.</description>
+            <link>http://www.bbc.co.uk/news/uk-england-beds-bucks-herts-39410855</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-beds-bucks-herts-39410855</guid>
+            <pubDate>Tue, 28 Mar 2017 00:25:53 GMT</pubDate>
+            <media:thumbnail height="576" url="http://c.files.bbci.co.uk/3E98/production/_95342061_p04y6dxy.jpg" width="1024"></media:thumbnail>
+        </item>
+        <item>
+            <title>BBC News Channel</title>
+            <description>BBC coverage of latest developments</description>
+            <link>http://www.bbc.co.uk/news/10318089</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/10318089</guid>
+            <pubDate>Fri, 17 Feb 2017 09:41:12 GMT</pubDate>
+            <media:thumbnail height="1152" url="http://news.bbcimg.co.uk/media/images/83122000/png/_83122356_globe_2048x1152.png" width="2048"></media:thumbnail>
+        </item>
+        <item>
+            <title>Legend plays for ordinary people at station</title>
+            <description>Some lucky John Legend fans in London were treated to an impromptu piano rendition in St Pancras station this morning.</description>
+            <link>http://www.bbc.co.uk/newsbeat/39430495</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/newsbeat/39430495</guid>
+            <pubDate>Wed, 29 Mar 2017 13:23:53 GMT</pubDate>
+            <media:thumbnail height="549" url="http://c.files.bbci.co.uk/0D13/production/_95374330_legendpaimage.jpg" width="976"></media:thumbnail>
+        </item>
+        <item>
+            <title>Baby red squirrel found in felled tree in Insch</title>
+            <description>A one-week-old baby red squirrel is rescued after a nest is discovered in a felled tree in Aberdeenshire.</description>
+            <link>http://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-39430189</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-39430189</guid>
+            <pubDate>Wed, 29 Mar 2017 08:54:11 GMT</pubDate>
+            <media:thumbnail height="549" url="http://c.files.bbci.co.uk/9D2D/production/_95373204_squirrel3976.jpg" width="976"></media:thumbnail>
+        </item>
+        <item>
+            <title>Oldest man, 109, 'irked' over his Brexit birthday</title>
+            <description>Speaking on his 109th birthday, Bob Weighton said Britain's exit from the EU would be "like a divorce".</description>
+            <link>http://www.bbc.co.uk/news/uk-england-hampshire-39428281</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-hampshire-39428281</guid>
+            <pubDate>Wed, 29 Mar 2017 09:35:32 GMT</pubDate>
+            <media:thumbnail height="549" url="http://c.files.bbci.co.uk/3B7D/production/_92892251_p04khr78.jpg" width="976"></media:thumbnail>
+        </item>
+        <item>
+            <title>Broad(church) minded?</title>
+            <description>The Broadchurch star says his latest play is being constantly tweaked to feature topical jokes.</description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-39416694</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-39416694</guid>
+            <pubDate>Wed, 29 Mar 2017 12:49:14 GMT</pubDate>
+            <media:thumbnail height="637" url="http://c.files.bbci.co.uk/150C7/production/_95351268_tennant-sit.jpg" width="1133"></media:thumbnail>
+        </item>
+        <item>
+            <title>Sleeping with baby</title>
+            <description>Dawn Barclay fell asleep on the sofa with her baby daughter, but woke to find the child was not breathing.</description>
+            <link>http://www.bbc.co.uk/news/uk-39381265</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-39381265</guid>
+            <pubDate>Wed, 29 Mar 2017 14:23:55 GMT</pubDate>
+            <media:thumbnail height="549" url="http://c.files.bbci.co.uk/1452D/production/_95354238_dawn.jpg" width="976"></media:thumbnail>
+        </item>
+        <item>
+            <title>In pictures</title>
+            <description>Photographer Jim Grover documents a day on Clapham High Street as shoppers give way to clubbers.</description>
+            <link>http://www.bbc.co.uk/news/in-pictures-39405318</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/in-pictures-39405318</guid>
+            <pubDate>Tue, 28 Mar 2017 23:40:14 GMT</pubDate>
+            <media:thumbnail height="1152" url="http://c.files.bbci.co.uk/08B3/production/_95372220_37.l1000110.jpg" width="2048"></media:thumbnail>
+        </item>
+        <item>
+            <title>Up in arms?</title>
+            <description>The newspaper defends its article on the legs of the prime minister and the first minister.</description>
+            <link>http://www.bbc.co.uk/news/uk-39421279</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-39421279</guid>
+            <pubDate>Tue, 28 Mar 2017 14:26:27 GMT</pubDate>
+            <media:thumbnail height="1152" url="http://c.files.bbci.co.uk/0717/production/_95351810_sturgeon_may_legsit_2_getty.jpg" width="2048"></media:thumbnail>
+        </item>
+        <item>
+            <title>Are you eligible?</title>
+            <description>How the Tesco investors' compensation scheme will work.</description>
+            <link>http://www.bbc.co.uk/news/business-39416599</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-39416599</guid>
+            <pubDate>Tue, 28 Mar 2017 13:48:29 GMT</pubDate>
+            <media:thumbnail height="1152" url="http://c.files.bbci.co.uk/17525/production/_95352559_mediaitem95352558.jpg" width="2048"></media:thumbnail>
+        </item>
+        <item>
+            <title>A good deed pays off</title>
+            <description>The mother of a six-year-old girl tells how her daughter became part of her own fairytale after she found a wallet in a supermarket.</description>
+            <link>http://www.bbc.co.uk/news/uk-39417904</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-39417904</guid>
+            <pubDate>Tue, 28 Mar 2017 12:21:06 GMT</pubDate>
+            <media:thumbnail height="549" url="http://c.files.bbci.co.uk/13A97/production/_95353508_alaynna.jpg" width="976"></media:thumbnail>
+        </item>
+        <item>
+            <title>40 years behind the lens</title>
+            <description>Stunning images from photographer Eric Luke, who had a ringside seat on history in the making.</description>
+            <link>http://www.bbc.co.uk/news/uk-northern-ireland-39404391</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-northern-ireland-39404391</guid>
+            <pubDate>Tue, 28 Mar 2017 06:24:36 GMT</pubDate>
+            <media:thumbnail height="549" url="http://c.files.bbci.co.uk/FF49/production/_95335356_boy.jpg" width="976"></media:thumbnail>
+        </item>
+        <item>
+            <title>Not just Andy... </title>
+            <description>Six months on from Rio, we take a look at the sport that smashed its medal target.</description>
+            <link>http://www.bbc.co.uk/news/uk-39352850</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-39352850</guid>
+            <pubDate>Tue, 28 Mar 2017 11:48:22 GMT</pubDate>
+            <media:thumbnail height="1152" url="http://c.files.bbci.co.uk/80C6/production/_95266923_agms-medals_16poly_h7-15-1.jpg" width="2048"></media:thumbnail>
+        </item>
+        <item>
+            <title>Stray to saviour</title>
+            <description>How a rescue dog is helping people to get out of hospital more quickly.</description>
+            <link>http://www.bbc.co.uk/news/health-39383868</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-39383868</guid>
+            <pubDate>Tue, 28 Mar 2017 00:31:23 GMT</pubDate>
+            <media:thumbnail height="1152" url="http://c.files.bbci.co.uk/781E/production/_95305703_img_6234.jpg" width="2048"></media:thumbnail>
+        </item>
+    </channel>
+</rss>
+  ▿ Element : <SWXMLHash_Root_Element><rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title>BBC News - UK</title>
+        <description>BBC News - UK</description>
+        <link>http://www.bbc.co.uk/news/</link>
+        <image>
+            <url>http://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - UK</title>
+            <link>http://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Wed, 29 Mar 2017 16:17:36 GMT</lastBuildDate>
+        <copyright>Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.</copyright>
+        <language>en-gb</language>
+        <ttl>15</ttl>
+        <item>
+            <title>'No turning back' on Brexit as Article 50 triggered</title>
+            <description>Theresa May formally triggers the process of leaving the EU as negotiating battle lines are drawn.</description>
+            <link>http://www.bbc.co.uk/news/uk-politics-39431428</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-39431428</guid>
+            <pubDate>Wed, 29 Mar 2017 16:16:10 GMT</pubDate>
+            <media:thumbnail height="549" url="http://c.files.bbci.co.uk/15547/production/_95376378_mediaitem95376374.jpg" width="976"></media:thumbnail>
+        </item>
+        <item>
+            <title>Bridge tribute to Westminster attack victims</title>
+            <description>Thousands gather at the scene of the attack, exactly one week after it happened.</description>
+            <link>http://www.bbc.co.uk/news/uk-39435074</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-39435074</guid>
+            <pubDate>Wed, 29 Mar 2017 15:41:43 GMT</pubDate>
+            <media:thumbnail height="1152" url="http://c.files.bbci.co.uk/B605/production/_95379564_girls_bridge_reuters.jpg" width="2048"></media:thumbnail>
+        </item>
+        <item>
+            <title>George Michael: Private funeral for singer held</title>
+            <description>A private ceremony for the singer takes place, three months after his death.</description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-39434127</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-39434127</guid>
+            <pubDate>Wed, 29 Mar 2017 16:03:31 GMT</pubDate>
+            <media:thumbnail height="549" url="http://c.files.bbci.co.uk/6919/production/_94950962_georgepa.jpg" width="976"></media:thumbnail>
+        </item>
+        <item>
+            <title>Mark Duggan's family lose inquest appeal</title>
+            <description>There were riots across England after Mark Duggan was shot dead by police in London in 2011.</description>
+            <link>http://www.bbc.co.uk/news/uk-england-london-39428862</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-london-39428862</guid>
+            <pubDate>Wed, 29 Mar 2017 10:32:18 GMT</pubDate>
+            <media:thumbnail height="549" url="http://c.files.bbci.co.uk/13AD/production/_95373050_mediaitem95371287.jpg" width="976"></media:thumbnail>
+        </item>
+        <item>
+            <title>Royal Marine Alexander Blackman always regretted actions, wife says</title>
+            <description>Claire Blackman says if her husband could change 2011's events, "he would do in a heartbeat".</description>
+            <link>http://www.bbc.co.uk/news/uk-39428354</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-39428354</guid>
+            <pubDate>Wed, 29 Mar 2017 09:26:58 GMT</pubDate>
+            <media:thumbnail height="1152" url="http://c.files.bbci.co.uk/2FB9/production/_95371221_claire_blackman_getty.jpg" width="2048"></media:thumbnail>
+        </item>
+        <item>
+            <title>Merthyr RFC doctor calls for research into 3G pitches</title>
+            <description>It is after seven players suffered burns while playing at Sardis Road, Pontypridd.</description>
+            <link>http://www.bbc.co.uk/news/uk-wales-south-east-wales-39431522</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-wales-south-east-wales-39431522</guid>
+            <pubDate>Wed, 29 Mar 2017 14:38:44 GMT</pubDate>
+            <media:thumbnail height="549" url="http://c.files.bbci.co.uk/0362/production/_95366800_burns.jpg" width="976"></media:thumbnail>
+        </item>
+        <item>
+            <title>Bitcoin entrepreneur Amir Taaki quizzed over fighting in Syria</title>
+            <description>Developer quizzed by UK police after fighting so-called Islamic State alongside Kurds.</description>
+            <link>http://www.bbc.co.uk/news/uk-39417937</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-39417937</guid>
+            <pubDate>Wed, 29 Mar 2017 15:25:35 GMT</pubDate>
+            <media:thumbnail height="1152" url="http://c.files.bbci.co.uk/8BA1/production/_95354753_amir_taaki_outside.jpg" width="2048"></media:thumbnail>
+        </item>
+        <item>
+            <title>Man attacked by own Staffordshire bull terrier dog dies</title>
+            <description>The Staffordshire bull terrier owner died of hypovolemic shock and damage to his airway.</description>
+            <link>http://www.bbc.co.uk/news/uk-england-39428323</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-39428323</guid>
+            <pubDate>Wed, 29 Mar 2017 12:29:54 GMT</pubDate>
+            <media:thumbnail height="549" url="http://c.files.bbci.co.uk/4729/production/_95371281_mediaitem95371279.jpg" width="976"></media:thumbnail>
+        </item>
+        <item>
+            <title>Flybe fined for sending 3.3 million unwanted emails</title>
+            <description>The airline is fined £70,000 after sending more than 3.3 million marketing emails to people who did not want to receive them.</description>
+            <link>http://www.bbc.co.uk/news/technology-39430349</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-39430349</guid>
+            <pubDate>Wed, 29 Mar 2017 11:04:38 GMT</pubDate>
+            <media:thumbnail height="549" url="http://c.files.bbci.co.uk/0A43/production/_95372620_gettyimages-625531644.jpg" width="976"></media:thumbnail>
+        </item>
+        <item>
+            <title>Blue cheese 'was source' of E. coli outbreak</title>
+            <description>A report into an outbreak of E. coli O157 in which a three-year-old child died has concluded Dunsyre Blue cheese was the source.</description>
+            <link>http://www.bbc.co.uk/news/uk-scotland-39429124</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-scotland-39429124</guid>
+            <pubDate>Wed, 29 Mar 2017 13:58:34 GMT</pubDate>
+            <media:thumbnail height="549" url="http://c.files.bbci.co.uk/A48E/production/_90562124_mediaitem90562120.jpg" width="976"></media:thumbnail>
+        </item>
+        <item>
+            <title>Opening of Queensferry Crossing delayed until summer</title>
+            <description>The new Queensferry Crossing will not open until between mid-July and the end of August, officials confirm.</description>
+            <link>http://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-39431512</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-39431512</guid>
+            <pubDate>Wed, 29 Mar 2017 11:31:03 GMT</pubDate>
+            <media:thumbnail height="549" url="http://c.files.bbci.co.uk/A163/production/_92451314_mediaitem92451313.jpg" width="976"></media:thumbnail>
+        </item>
+        <item>
+            <title>Didcot is 'most normal town in England', researchers claim</title>
+            <description>The unassuming location best represents an "average English existence", according to statisticians.</description>
+            <link>http://www.bbc.co.uk/news/uk-england-oxfordshire-39428314</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-oxfordshire-39428314</guid>
+            <pubDate>Wed, 29 Mar 2017 14:28:04 GMT</pubDate>
+            <media:thumbnail height="549" url="http://c.files.bbci.co.uk/14078/production/_91004028_img_20160830_214831.jpg" width="976"></media:thumbnail>
+        </item>
+        <item>
+            <title>London attack: Tribute paid to Westminster bridge victims</title>
+            <description>Police officers have led a tribute to the victims of the Westminister attack.</description>
+            <link>http://www.bbc.co.uk/news/uk-39436577</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-39436577</guid>
+            <pubDate>Wed, 29 Mar 2017 15:00:18 GMT</pubDate>
+            <media:thumbnail height="576" url="http://c.files.bbci.co.uk/12C8/production/_95380840_p04ydz9b.jpg" width="1024"></media:thumbnail>
+        </item>
+        <item>
+            <title>Marine Le Pen on why the EU wants Brexit to be painful</title>
+            <description>Though the French presidential candidate still thinks Great Britain will negotiate a good deal.</description>
+            <link>http://www.bbc.co.uk/news/world-europe-39426221</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-europe-39426221</guid>
+            <pubDate>Wed, 29 Mar 2017 00:18:40 GMT</pubDate>
+            <media:thumbnail height="549" url="http://c.files.bbci.co.uk/11810/production/_95369617_p04yc2l4.jpg" width="976"></media:thumbnail>
+        </item>
+        <item>
+            <title>Pets sleeping on your bed growing trend</title>
+            <description>According to a new survey, nearly half of British dog and cat owners let their animals sleep on their bed.</description>
+            <link>http://www.bbc.co.uk/news/world-39428839</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-39428839</guid>
+            <pubDate>Wed, 29 Mar 2017 07:19:38 GMT</pubDate>
+            <media:thumbnail height="576" url="http://c.files.bbci.co.uk/174B9/production/_95371459_p04ychqw.jpg" width="1024"></media:thumbnail>
+        </item>
+        <item>
+            <title>Woman pledges to bake 40 cakes in 40 days for 40 people</title>
+            <description>Anna has used 50 eggs, four-and-a-half kilos of sugar and over two-and-a-half kilos of chocolate.</description>
+            <link>http://www.bbc.co.uk/news/uk-england-coventry-warwickshire-39431665</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-coventry-warwickshire-39431665</guid>
+            <pubDate>Wed, 29 Mar 2017 11:52:59 GMT</pubDate>
+            <media:thumbnail height="549" url="http://c.files.bbci.co.uk/1484F/production/_95374048_p04yd7n2.jpg" width="976"></media:thumbnail>
+        </item>
+        <item>
+            <title>Mother gave cannabis to son who fought rare form of cancer</title>
+            <description>Callie Blackwell said she was terrified of her teenage son "dying in pain".</description>
+            <link>http://www.bbc.co.uk/news/uk-england-norfolk-39422682</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-norfolk-39422682</guid>
+            <pubDate>Tue, 28 Mar 2017 15:20:29 GMT</pubDate>
+            <media:thumbnail height="576" url="http://c.files.bbci.co.uk/16AA4/production/_95363829_p04y9nyk.jpg" width="1024"></media:thumbnail>
+        </item>
+        <item>
+            <title>Holyrood backs Sturgeon's call for Indyref2</title>
+            <description>MSPs voted by 69 to 59 in favour of seeking permission for a referendum before the UK leaves the EU.</description>
+            <link>http://www.bbc.co.uk/news/uk-politics-39423257</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-39423257</guid>
+            <pubDate>Tue, 28 Mar 2017 18:38:30 GMT</pubDate>
+            <media:thumbnail height="574" url="http://c.files.bbci.co.uk/2612/production/_95364790_p04yb785.jpg" width="1024"></media:thumbnail>
+        </item>
+        <item>
+            <title>Robot making schoolgirls set for world championships</title>
+            <description>Schoolgirls who designed and built a robot will represent the UK in the Robotics World Championship.</description>
+            <link>http://www.bbc.co.uk/news/uk-england-beds-bucks-herts-39410855</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-beds-bucks-herts-39410855</guid>
+            <pubDate>Tue, 28 Mar 2017 00:25:53 GMT</pubDate>
+            <media:thumbnail height="576" url="http://c.files.bbci.co.uk/3E98/production/_95342061_p04y6dxy.jpg" width="1024"></media:thumbnail>
+        </item>
+        <item>
+            <title>BBC News Channel</title>
+            <description>BBC coverage of latest developments</description>
+            <link>http://www.bbc.co.uk/news/10318089</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/10318089</guid>
+            <pubDate>Fri, 17 Feb 2017 09:41:12 GMT</pubDate>
+            <media:thumbnail height="1152" url="http://news.bbcimg.co.uk/media/images/83122000/png/_83122356_globe_2048x1152.png" width="2048"></media:thumbnail>
+        </item>
+        <item>
+            <title>Legend plays for ordinary people at station</title>
+            <description>Some lucky John Legend fans in London were treated to an impromptu piano rendition in St Pancras station this morning.</description>
+            <link>http://www.bbc.co.uk/newsbeat/39430495</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/newsbeat/39430495</guid>
+            <pubDate>Wed, 29 Mar 2017 13:23:53 GMT</pubDate>
+            <media:thumbnail height="549" url="http://c.files.bbci.co.uk/0D13/production/_95374330_legendpaimage.jpg" width="976"></media:thumbnail>
+        </item>
+        <item>
+            <title>Baby red squirrel found in felled tree in Insch</title>
+            <description>A one-week-old baby red squirrel is rescued after a nest is discovered in a felled tree in Aberdeenshire.</description>
+            <link>http://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-39430189</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-39430189</guid>
+            <pubDate>Wed, 29 Mar 2017 08:54:11 GMT</pubDate>
+            <media:thumbnail height="549" url="http://c.files.bbci.co.uk/9D2D/production/_95373204_squirrel3976.jpg" width="976"></media:thumbnail>
+        </item>
+        <item>
+            <title>Oldest man, 109, 'irked' over his Brexit birthday</title>
+            <description>Speaking on his 109th birthday, Bob Weighton said Britain's exit from the EU would be "like a divorce".</description>
+            <link>http://www.bbc.co.uk/news/uk-england-hampshire-39428281</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-hampshire-39428281</guid>
+            <pubDate>Wed, 29 Mar 2017 09:35:32 GMT</pubDate>
+            <media:thumbnail height="549" url="http://c.files.bbci.co.uk/3B7D/production/_92892251_p04khr78.jpg" width="976"></media:thumbnail>
+        </item>
+        <item>
+            <title>Broad(church) minded?</title>
+            <description>The Broadchurch star says his latest play is being constantly tweaked to feature topical jokes.</description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-39416694</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-39416694</guid>
+            <pubDate>Wed, 29 Mar 2017 12:49:14 GMT</pubDate>
+            <media:thumbnail height="637" url="http://c.files.bbci.co.uk/150C7/production/_95351268_tennant-sit.jpg" width="1133"></media:thumbnail>
+        </item>
+        <item>
+            <title>Sleeping with baby</title>
+            <description>Dawn Barclay fell asleep on the sofa with her baby daughter, but woke to find the child was not breathing.</description>
+            <link>http://www.bbc.co.uk/news/uk-39381265</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-39381265</guid>
+            <pubDate>Wed, 29 Mar 2017 14:23:55 GMT</pubDate>
+            <media:thumbnail height="549" url="http://c.files.bbci.co.uk/1452D/production/_95354238_dawn.jpg" width="976"></media:thumbnail>
+        </item>
+        <item>
+            <title>In pictures</title>
+            <description>Photographer Jim Grover documents a day on Clapham High Street as shoppers give way to clubbers.</description>
+            <link>http://www.bbc.co.uk/news/in-pictures-39405318</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/in-pictures-39405318</guid>
+            <pubDate>Tue, 28 Mar 2017 23:40:14 GMT</pubDate>
+            <media:thumbnail height="1152" url="http://c.files.bbci.co.uk/08B3/production/_95372220_37.l1000110.jpg" width="2048"></media:thumbnail>
+        </item>
+        <item>
+            <title>Up in arms?</title>
+            <description>The newspaper defends its article on the legs of the prime minister and the first minister.</description>
+            <link>http://www.bbc.co.uk/news/uk-39421279</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-39421279</guid>
+            <pubDate>Tue, 28 Mar 2017 14:26:27 GMT</pubDate>
+            <media:thumbnail height="1152" url="http://c.files.bbci.co.uk/0717/production/_95351810_sturgeon_may_legsit_2_getty.jpg" width="2048"></media:thumbnail>
+        </item>
+        <item>
+            <title>Are you eligible?</title>
+            <description>How the Tesco investors' compensation scheme will work.</description>
+            <link>http://www.bbc.co.uk/news/business-39416599</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-39416599</guid>
+            <pubDate>Tue, 28 Mar 2017 13:48:29 GMT</pubDate>
+            <media:thumbnail height="1152" url="http://c.files.bbci.co.uk/17525/production/_95352559_mediaitem95352558.jpg" width="2048"></media:thumbnail>
+        </item>
+        <item>
+            <title>A good deed pays off</title>
+            <description>The mother of a six-year-old girl tells how her daughter became part of her own fairytale after she found a wallet in a supermarket.</description>
+            <link>http://www.bbc.co.uk/news/uk-39417904</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-39417904</guid>
+            <pubDate>Tue, 28 Mar 2017 12:21:06 GMT</pubDate>
+            <media:thumbnail height="549" url="http://c.files.bbci.co.uk/13A97/production/_95353508_alaynna.jpg" width="976"></media:thumbnail>
+        </item>
+        <item>
+            <title>40 years behind the lens</title>
+            <description>Stunning images from photographer Eric Luke, who had a ringside seat on history in the making.</description>
+            <link>http://www.bbc.co.uk/news/uk-northern-ireland-39404391</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-northern-ireland-39404391</guid>
+            <pubDate>Tue, 28 Mar 2017 06:24:36 GMT</pubDate>
+            <media:thumbnail height="549" url="http://c.files.bbci.co.uk/FF49/production/_95335356_boy.jpg" width="976"></media:thumbnail>
+        </item>
+        <item>
+            <title>Not just Andy... </title>
+            <description>Six months on from Rio, we take a look at the sport that smashed its medal target.</description>
+            <link>http://www.bbc.co.uk/news/uk-39352850</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-39352850</guid>
+            <pubDate>Tue, 28 Mar 2017 11:48:22 GMT</pubDate>
+            <media:thumbnail height="1152" url="http://c.files.bbci.co.uk/80C6/production/_95266923_agms-medals_16poly_h7-15-1.jpg" width="2048"></media:thumbnail>
+        </item>
+        <item>
+            <title>Stray to saviour</title>
+            <description>How a rescue dog is helping people to get out of hospital more quickly.</description>
+            <link>http://www.bbc.co.uk/news/health-39383868</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-39383868</guid>
+            <pubDate>Tue, 28 Mar 2017 00:31:23 GMT</pubDate>
+            <media:thumbnail height="1152" url="http://c.files.bbci.co.uk/781E/production/_95305703_img_6234.jpg" width="2048"></media:thumbnail>
+        </item>
+    </channel>
+</rss></SWXMLHash_Root_Element>

@@ -54,4 +54,18 @@ open class SettingsDataController {
         }
     }
     
+    open func readAll() -> [Settings] {
+        let results = self.realm.objects(Settings.self)
+        return(Array(results))
+    }
+    
+    open func deleteAll() {
+        do {
+            try realm.write {
+                realm.delete(self.readAll())
+            }
+        } catch let error as NSError {
+            print("deleteAll - Something went wrong: \(error.localizedDescription)")
+        }
+    }
 }
