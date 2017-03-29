@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  NewsApp
+
+  Created by Pablo Roca Rozas on 29/03/2017.
+  Copyright © 2017 PR2Studio. All rights reserved.
+*/
+
+"NewsListTitle" = "News";
+"texttoshare" = "Check out this feed from NewsApp!";
