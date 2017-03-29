@@ -37,7 +37,7 @@ https://github.com/realm/SwiftLint
 
 A tool for enforcing good code style.
 
-The run script if deactivated, just in case you don't have it installed. To reenable, uncomment lines in Run Script Phase we have in the ChatBot target
+The run script if deactivated, just in case you don't have it installed. To reenable, uncomment lines in Run Script Phase we have in the NewsApp target
 
 ## Database
 
