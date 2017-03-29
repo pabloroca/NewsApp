@@ -31,7 +31,7 @@ class FeedCell: UITableViewCell {
 
     func configureCell(data: Feed) {
         lbltitle.text = data.title
-        if data.media.characters.count > 0 {
+        if !data.media.isEmpty {
             imgfeed.PR2ImageFromNetwork(data.media)
         } else {
             imgfeed.image = nil

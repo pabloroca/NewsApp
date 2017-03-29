@@ -15,7 +15,7 @@ class NewsListViewController: UITableViewController {
     @IBOutlet var viewTable: UITableView!
     //UI
     
-    var detailViewController: DetailViewController? = nil
+    var detailViewController: DetailViewController?
     var objects = [Any]()
 
     var arrayFeeds: [Feed] = []
@@ -58,7 +58,7 @@ class NewsListViewController: UITableViewController {
         
         self.navigationItem.titleView = menuView
         
-        menuView.didSelectItemAtIndexHandler = {[weak self] (index: Int) -> () in
+        menuView.didSelectItemAtIndexHandler = {[weak self] (index: Int) -> Void in
             print("Did select item at index: \(index)")
             if index != self?.selectedFeed {
                 SettingsDataController().setTSFeedRead(feedid: index, ts: 0)
@@ -120,4 +120,3 @@ class NewsListViewController: UITableViewController {
         }
     }
 }
-

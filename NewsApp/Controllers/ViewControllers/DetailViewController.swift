@@ -33,8 +33,8 @@ class DetailViewController: UIViewController, UIWebViewDelegate {
         // Do any additional setup after loading the view, typically from a nib.
         self.configureView()
         
-        if link.characters.count > 0 {
-            viewWeb.delegate = self;
+        if !link.isEmpty {
+            viewWeb.delegate = self
             viewWeb.loadRequest(NSURLRequest(url: NSURL(string: link)! as URL) as URLRequest)
         }
     }
@@ -63,12 +63,9 @@ class DetailViewController: UIViewController, UIWebViewDelegate {
         self.viewActivity.isHidden = true
     }
     
-    
     func webView(_ webView: UIWebView, didFailLoadWithError error: Error) {
         self.viewActivity.stopAnimating()
         self.viewActivity.isHidden = true
     }
-    
 
 }
-

@@ -20,7 +20,7 @@ open class FeedDataController {
             try realm.safeWrite {
                 for elem in xml["rss"]["channel"]["item"].all {
                     if let channeltitle = xml["rss"]["channel"]["title"].element?.text {
-                        if channeltitle.range(of:"BBC") != nil{
+                        if channeltitle.range(of:"BBC") != nil {
                             self.realm.add(Feed.init(feedid: feedid, title: elem["title"].element?.text, fdescription: elem["description"].element?.text, link: elem["link"].element?.text, pubDate: elem["pubDate"].element?.text?.PR2DateFormatterFromWeb(), media: elem["media:thumbnail"].element?.attribute(by: "url")?.text)!)
                         } else {
                             self.realm.add(Feed.init(feedid: feedid, title: elem["title"].element?.text, fdescription: elem["description"].element?.text, link: elem["link"].element?.text, pubDate: elem["pubDate"].element?.text?.PR2DateFormatterFromWeb(), media: "")!)
