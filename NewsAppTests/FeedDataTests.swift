@@ -98,4 +98,17 @@ class FeedDataTests: XCTestCase {
         }
     }
     
+    func testcanreadFromServer() {
+        let expectation = self.expectation(description: "check if network connection can be made")
+        
+        FeedNetworkController().readFeedFor(0) { (success) in
+            if success {
+                expectation.fulfill()
+            } else {
+                XCTFail()
+            }
+        }
+        self.waitForExpectations(timeout: 30.0, handler: nil)
+    }
+
 }

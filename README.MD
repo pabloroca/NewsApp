@@ -14,6 +14,8 @@
 * waiting indicators in status bar
 * cache by 5 mins internally, cause OpenWeatherMap has no cache system. (not finished)
 * using SwiftLint to enforce Swift style and conventions
+* Pull to refresh feeds
+* No data available if first time launch has no connectivity
 * Using as few external libraries as possible:
 
 * Alamofire
@@ -48,7 +50,7 @@ Using RealmSwift, I have created this tables:
 
 ## TODO (out of time), What I would add
 
-* VIPER architecture
+* VIPER architecture (it's too much for a simple exercise)
 * OHHTTPStubs tests
 
 ## To enhance
