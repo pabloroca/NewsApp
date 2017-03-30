@@ -76,4 +76,26 @@ class FeedDataTests: XCTestCase {
             XCTAssert(true, "Pass")
         }
     }
+    
+    func testReadForFeed() {
+        let data = self.dataController!.readForFeed(feedid: 0)
+        
+        if data.isEmpty {
+            XCTFail()
+        } else {
+            XCTAssert(true, "Pass")
+        }
+    }
+    
+    func testdeleteForFeed() {
+        self.dataController!.deleteForFeed(feedid: 0)
+        let data = self.dataController!.readForFeed(feedid: 0)
+        
+        if data.isEmpty {
+            XCTAssert(true, "Pass")
+        } else {
+            XCTFail()
+        }
+    }
+    
 }
