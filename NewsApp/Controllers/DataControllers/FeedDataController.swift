@@ -45,7 +45,7 @@ open class FeedDataController {
         
         let arrResults = Array(results)
         
-        // newwest on top
+        // newwest by pubDate on top
         let myArraySorted = arrResults.sorted { (one, two) -> Bool in
             return one.pubDate! > two.pubDate!
         }

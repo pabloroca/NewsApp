@@ -22,15 +22,18 @@ open class FeedNetworkController {
                 return
             }
             
+            UIApplication.shared.isNetworkActivityIndicatorVisible = true
             let feedlist = FeedList().setup()
             
             if let endpoint = feedlist[feednumber].url {
                 Alamofire.request(endpoint, method: .get).response(completionHandler: { (response) in
+                    UIApplication.shared.isNetworkActivityIndicatorVisible = false
                     let xml = SWXMLHash.parse(response.data!)
                     FeedDataController().processxml(feedid: feednumber, xml: xml)
                     completionHandler(true)
                 })
             } else {
+                UIApplication.shared.isNetworkActivityIndicatorVisible = false
                 completionHandler(false)
             }
         }

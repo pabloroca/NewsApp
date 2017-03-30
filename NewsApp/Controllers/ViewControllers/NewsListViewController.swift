@@ -24,6 +24,8 @@ class NewsListViewController: UITableViewController {
     
     internal let myrefreshControl = UIRefreshControl()
 
+    // MARK: - View livecycle
+
     override func viewDidLoad() {
         super.viewDidLoad()
 
@@ -34,7 +36,13 @@ class NewsListViewController: UITableViewController {
             let controllers = split.viewControllers
             self.detailViewController = (controllers[controllers.count-1] as! UINavigationController).topViewController as? DetailViewController
         }
-        
+
+        // read data from feed 0 in case of no connectivity
+        self.arrayFeeds = FeedDataController().readForFeed(feedid: (self.selectedFeed))
+        if !self.arrayFeeds.isEmpty {
+            self.viewTable.reloadData()
+        }
+
         FeedNetworkController().readFeedFor(selectedFeed) { [weak self] (success) in
             self?.arrayFeeds =  FeedDataController().readForFeed(feedid: (self?.selectedFeed)!)
             self?.viewTable.reloadData()
@@ -110,6 +118,8 @@ class NewsListViewController: UITableViewController {
             self.present(activityVC, animated: true, completion: nil)
         }
     }
+
+    // MARK: - Custom methods
 
     func refreshData(sender: UIRefreshControl) {
         myrefreshControl.endRefreshing()
