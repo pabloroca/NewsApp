@@ -8,3 +8,4 @@
 
 "NewsListTitle" = "News";
 "texttoshare" = "Check out this feed from NewsApp!";
+"nodata" = "No data available. Pull to refresh";
